@@ -4,6 +4,11 @@ SORACHI 機器人的 changelog
 
 ## Release
 
+### 1.2 Decomposition （2022/6/30）
++ 新增 早安環節
++ 新增 一詞
++ 修改 部分隨機訊息機率
+
 ### 1.1 Cymbals （2021/9/22）
 + 新增 晚安環節
 
