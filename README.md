@@ -4,7 +4,7 @@ SORACHI 機器人的 changelog
 
 ## Release
 
-### 1.4 Futarino
+### 1.4 Futarino（2023/6/27）
 + 新增 要吃什麼
 
 ### 1.3 EnvyPhantom
