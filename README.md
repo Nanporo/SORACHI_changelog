@@ -4,6 +4,12 @@ SORACHI 機器人的 changelog
 
 ## Release
 
+### 1.4 Futarino
++ 新增 要吃什麼
+
+### 1.3 EnvyPhantom
++ 新增 擁有者專用功能
+
 ### 1.2 Decomposition （2022/6/30）
 + 新增 早安環節
 + 新增 一詞
