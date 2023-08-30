@@ -4,6 +4,12 @@ SORACHI 機器人的 changelog
 
 ## Release
 
+### 1.5 Gingaroku（2023/8/31）
++ 新增 是不是
++ 新增 更多食物
++ 新增 eewnow
++ 修正 二選一功能的bug
+
 ### 1.4 Futarino（2023/6/27）
 + 新增 要吃什麼
 
